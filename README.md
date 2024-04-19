@@ -1,4 +1,4 @@
-This is the predictions for the CAMELYON16 testset for "Enhancing weakly supervised learning for histopathology images by incorporating the significance ratio".
+This is the CAMEL2 code for MNIST and predictions for the CAMELYON16 testset for "CAMEL2: Enhancing weakly supervised learning for histopathology images by incorporating the significance ratio".
 
 ## Download
 
